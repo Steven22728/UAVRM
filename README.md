@@ -1,5 +1,5 @@
 node-djiparsetxt
-================
+==============
 
 ![npm](https://img.shields.io/npm/v/node-djiparsetxt.svg)
 ![NPM](https://img.shields.io/npm/l/node-djiparsetxt.svg)
